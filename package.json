@@ -9,8 +9,7 @@
   },
   "name": "UserDefaults for App Groups",
   "version": "0.0.1",
-  "description": "This plugin is used to save and load data to the app groups. It
-  is used to share data between App and Share Extension.",
+  "description": "This plugin is used to save and load data to the app groups. It is used to share data between App and Share Extension.",
   "cordova": {
     "id": "info.protonet.appgroupsuserdefaults",
     "platforms": [
