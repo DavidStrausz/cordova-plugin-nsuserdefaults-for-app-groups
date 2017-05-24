@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/protonet/cordova-plugin-nsuserdefaults-for-app-groups"
   },
-  "name": "UserDefaults for App Groups",
+  "name": "info.protonet.appgroupsuserdefaults",
   "version": "0.0.1",
   "description": "This plugin is used to save and load data to the app groups. It is used to share data between App and Share Extension.",
   "cordova": {
